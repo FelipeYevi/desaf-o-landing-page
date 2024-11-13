@@ -1,0 +1,43 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  
+}
+.header {
+  color: white;
+  height: 150px;
+  background-image: url(../image/titulo3.png);
+  background-position: center;
+  background-size: cover;
+  padding: 80px;
+  text-align: left;
+  font-size: medium;
+}
+.header h1 {
+  margin: 0px;
+  font-weight: bolder;
+}
+.products {
+  margin: auto;
+  width: 80%;
+  padding: 80px;
+  border: 1px;
+}
+.products td {
+  width: 40%;
+  padding:50px;
+  text-align: left;
+}
+.products img {
+  width: 50%;
+  margin-right: 50px;
+}
+.footer {
+  height: 50px;
+  line-height: 10px;
+  background-color: aqua;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-weight: 700;
+  padding: 5px;
+}
